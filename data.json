@@ -1,0 +1,63 @@
+{
+  "all": [
+    {
+      "id": 1,
+      "img": "http://127.0.0.1:5500/assets/img/item-02.jpg",
+      "name": "Aullam scelerisque, lacus sed",
+      "info": "Duis ut velit gravida nibh bibendum commodo. Sus-pendisse pellentesque mattis augue id euismod. Inter-dum et malesuada fames",
+      "price": "10e",
+      "isfav": false,
+      "isbasket": null
+    },
+    {
+      "id": 2,
+      "img": "assets/img/item-03.jpg",
+      "name": "Bullam scelerisque, lacus sed",
+      "info": "Duis ut velit gravida nibh bibendum commodo. Sus-pendisse pellentesque mattis augue id euismod. Inter-dum et malesuada fames",
+      "price": "20",
+      "isfav": false,
+      "isbasket": null
+    },
+    {
+      "id": 3,
+      "img": "assets/img/item-05.jpg",
+      "name": "Cullam scelerisque, lacus sed",
+      "info": "Duis ut velit gravida nibh bibendum commodo. Sus-pendisse pellentesque mattis augue id euismod. Inter-dum et malesuada fames",
+      "price": "30",
+      "isfav": false,
+      "isbasket": null
+    },
+    {
+      "id": 4,
+      "img": "assets/img/item-07.jpg",
+      "name": "Dullam scelerisque, lacus sed",
+      "info": "Duis ut velit gravida nibh bibendum commodo. Sus-pendisse pellentesque mattis augue id euismod. Inter-dum et malesuada fames",
+      "price": "40",
+      "isfav": true,
+      "isbasket": null
+    },
+    {
+      "id": 5,
+      "img": "assets/img/item-cart-01.jpg",
+      "name": "Eullam scelerisque, lacus sed",
+      "info": "Duis ut velit gravida nibh bibendum commodo. Sus-pendisse pellentesque mattis augue id euismod. Inter-dum et malesuada fames",
+      "price": "50",
+      "isfav": false,
+      "isbasket": 1
+    },
+    {
+      "name": "aullam scelerisque, lacus sed",
+      "info": "Zuis ut velit gravida nibh bibendum commodo. Sus-pendisse pellentesque mattis augue id euismod. Inter-dum et malesuada fames",
+      "price": "10e",
+      "img": "http://127.0.0.1:5500/assets/img/item-02.jpg",
+      "id": 6
+    },
+    {
+      "name": "swdaasd",
+      "info": "wwsdww",
+      "price": "dwd",
+      "img": "http://127.0.0.1:5500/add.html",
+      "id": 7
+    }
+  ]
+}
